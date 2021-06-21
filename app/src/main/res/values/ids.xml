@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="swipeContainer" type="id" />
+    <item name="recyclerView" type="id" />
+    <item name="disconnected" type="id" />
+    <item name="navigationbar" type="id" />
+</resources>
